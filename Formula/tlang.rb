@@ -2,7 +2,7 @@ class Tlang < Formula
   desc "Installs the compiler and accompanying REPL for tlang"
   homepage "https://www.tlang.io"
   url "https://github.com/timlindeberg/T-Compiler/releases/download/v0.1/tlang-0.1.tar.gz"
-  sha256 "35f1a0cbdf512d9de915e2155ea068bea172bedf284e6195b417484715aa8fa7"
+  sha256 "df9a78473a60d5469dc1b87efb9410da0c2d0d9949ce110bedc5945df01f5082"
 
   bottle :unneeded
 
